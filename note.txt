@@ -1,0 +1,29 @@
+Requirements
+[DONE] Terdapat elemen <header>, <footer>, <main>, <article>, dan <aside> di berkas HTML.
+-> sudah terdapat semua elemen yang disebutkan.
+[DONE] Masing-masing elemen wajib berisi konten yang peruntukkannya sesuai dengan elemen tersebut (menerapkan konsep semantic HTML dalam menyusun struktur website).
+Sebagai contoh: Header berisi judul dan navigation. Sedangkan konten artikel tidak boleh berada pada Header.
+-> konten sudah sesuai dengan elemen
+[DONE] Wajib menampilkan identitas diri (biodata diri) yang minimal harus berisi foto asli diri dan nama sesuai profil Dicoding. Identitas diri wajib ditampilkan dalam elemen <aside>.
+-> sudah ada biodata di elemen aside
+[DONE] Menyusun layout dengan menggunakan float atau flexbox.
+-> float pada content & aside, flexbox pada skills
+[DONE] Tema yang ditampilkan bebas, kecuali tema Bandung.
+-> Tema: Portfolio
+[DONE] Semakin detail dan lengkap website Anda maka nilai submission bisa lebih tinggi.
+[DONE] Menerapkan tampilan aplikasi yang menarik:
+[DONE] Memiliki pemilihan warna yang pas dengan tema aplikasi (Dalam memilih warna, Anda dapat memanfaatkan tools pemilihan warna seperti colorhunt.co).
+-> Color pallete https://coolors.co/1c658c-c5d5ea-b370b0-87255b-4b244a
+[DONE] Tata letak elemen yang pas. Contoh : Tidak ada konten yang bertumpuk.
+-> semua tata letak elemen tidak ada yang bertumpuk
+[DONE] Penggunaan font yang pas dengan tema.
+-> font: poppins dari gfont
+[DONE] Penerapan padding dan margin yang pas.
+-> semua terlihat jelas dan tidak ada yang mepet
+[DONE] Menerapkan layout yang responsif: 
+[DONE] Menggunakan media query untuk menyesuaikan layout pada berbagai ukuran layar device.
+-> media query untuk navbar, flexbox, dan image
+[DONE] Menerapkan flexbox dalam menyusun layout.
+-> flexbox pada skills
+[DONE] Terdapat penerapan JavaScript dalam memanipulasi DOM, seperti: Membuat drop down.
+-> membuat dropdown link pada projects untuk membuka repo/deployment
