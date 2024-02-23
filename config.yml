@@ -14,13 +14,17 @@ menu:
       url: /about
       weight: 2
     - identifier: experience
-      name: Experience
-      url: /experience
+      name: Experiences
+      url: /experiences
       weight: 3
     - identifier: projects
       name: Projects
       url: /projects
       weight: 4
+    - identifier: blogs
+      name: Blogs
+      url: /blogs
+      weight: 5
 
 params:
     defaultTheme: auto
@@ -30,21 +34,21 @@ params:
         enabled: true
         title: "Afif Fahreza"
         subtitle: Infra / DevOps / SRE
-        imageUrl: "images/profile_picture.JPG"
+        imageUrl: "profile_picture.jpg"
         imageWidth: 210
         imageHeight: 210
 
     socialIcons:
       - name: "cv"
-        url: "/404"
+        url: "https://docs.google.com/document/d/1D3YpIfME2oeq3E-gzhJ-4MMVxHlvDogkmge5rebFZfk/edit?usp=sharing"
       - name: "linkedin"
         url: "https://www.linkedin.com/in/afif-fahreza/"
       - name: "github"
         url: "https://github.com/afiffahreza"
-      - name: "spotify"
-        url: "https://open.spotify.com/user/9gmug1nd6bbncdcjk4unmkvtt?si=cffe1ca297ae48f0"
       - name: "instagram"
         url: "https://instagram.com/afiffahreza_"
       - name: "discord"
         url: "https://discordapp.com/users/218302947904323584"
     
+    assets:
+      circleci: "images/icons8-circleci-144.png"
