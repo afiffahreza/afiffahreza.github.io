@@ -1,6 +1,6 @@
 baseurl: https://afiffahreza.me
 languageCode: en-us
-title: Afif Fahreza
+title: Afif's Portfolio
 theme: PaperMod
 
 menu:
@@ -13,18 +13,18 @@ menu:
       name: About
       url: /about
       weight: 2
-    - identifier: experience
-      name: Experiences
-      url: /experiences
-      weight: 3
-    - identifier: projects
-      name: Projects
-      url: /projects
-      weight: 4
-    - identifier: blogs
-      name: Blogs
-      url: /blogs
-      weight: 5
+    # - identifier: experience
+    #   name: Experiences
+    #   url: /experiences
+    #   weight: 3
+    # - identifier: projects
+    #   name: Projects
+    #   url: /projects
+    #   weight: 4
+    # - identifier: blogs
+    #   name: Blogs
+    #   url: /blogs
+    #   weight: 5
 
 params:
     defaultTheme: auto
@@ -32,7 +32,7 @@ params:
 
     profileMode:
         enabled: true
-        title: "Afif Fahreza"
+        title: "Afif Fahreza Refrizal"
         subtitle: Infra / DevOps / SRE
         imageUrl: "profile_picture.jpg"
         imageWidth: 210
@@ -40,7 +40,7 @@ params:
 
     socialIcons:
       - name: "cv"
-        url: "https://docs.google.com/document/d/1D3YpIfME2oeq3E-gzhJ-4MMVxHlvDogkmge5rebFZfk/edit?usp=sharing"
+        url: "https://docs.google.com/document/d/1xA2d7WMm-qL_fFAzyIZJltGa42WUbof4iX6jq7uMZVo/edit?usp=sharing"
       - name: "linkedin"
         url: "https://www.linkedin.com/in/afif-fahreza/"
       - name: "github"
@@ -49,6 +49,3 @@ params:
         url: "https://instagram.com/afiffahreza_"
       - name: "discord"
         url: "https://discordapp.com/users/218302947904323584"
-    
-    assets:
-      circleci: "images/icons8-circleci-144.png"
